@@ -16,3 +16,5 @@ Check it out here:
 
 https://fiori-vr.netlify.com/
 
+This is a part of a much larger project Foglio Virtual Showrooms 
+
